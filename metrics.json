@@ -1,0 +1,14 @@
+{
+  "Method": [
+    "Gray baseline (no colour)",
+    "Our U-Net colorizer"
+  ],
+  "PSNR (dB)": [
+    23.06,
+    26.35
+  ],
+  "SSIM": [
+    0.934,
+    0.9443
+  ]
+}
