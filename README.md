@@ -67,8 +67,9 @@ streamlit run app.py
 
 ## Project Links
 
-- **Live App:** PASTE_STREAMLIT_LINK
-- **Project Report:** PASTE_REPORT_LINK
-- **Presentation:** PASTE_PPT_LINK
-- **YouTube Video:** PASTE_YOUTUBE_LINK
-- **LinkedIn Post:** PASTE_LINKEDIN_LINK
+- **Live App:** https://ai-photo-colorizer.streamlit.app/
+- **Project Report:** https://docs.google.com/document/d/1qL6AMJHLpE_V71WWi8FYejSNDLNtPoen1VcII-X5WaM/edit?usp=sharing
+- **Presentation:** https://docs.google.com/presentation/d/1mwhqX2P8mfV0t5fqRPVMeeWiRcKlC3h3roIt66kL5dY/edit?usp=sharing
+- **YouTube Video:** https://youtu.be/qV6wfc3X9v8
+- **LinkedIn Post:** https://lnkd.in/p/dCh3ye9A
+- **Colab Notebook:** https://colab.research.google.com/drive/1R8RpR85OgF_PqSEZw4ni-evtz94SzskG?usp=sharing
