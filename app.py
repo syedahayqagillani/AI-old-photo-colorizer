@@ -17,13 +17,13 @@ st.set_page_config(
 # ADD YOUR ACTUAL LINKS HERE (once available), THEN COMMIT TO GITHUB
 # =====================================================================
 LINKS = {
-    "GitHub Repository": "https://github.com/USERNAME/ai-old-photo-colorizer",
+    "GitHub Repository": "https://github.com/syedahayqagillani/AI-old-photo-colorizer",
     "Dataset (Hugging Face)": "https://huggingface.co/datasets/csr/Image-Colorization",
-    "Project Report": "PASTE_REPORT_LINK",
+    "Project Report": "https://docs.google.com/document/d/1qL6AMJHLpE_V71WWi8FYejSNDLNtPoen1VcII-X5WaM/edit?usp=sharingK",
     "Presentation (PPT)": "PASTE_PPT_LINK",
     "YouTube Video": "PASTE_YOUTUBE_LINK",
     "LinkedIn Post": "PASTE_LINKEDIN_LINK",
-    "Colab Notebook": "PASTE_COLAB_LINK",
+    "Colab Notebook": "https://colab.research.google.com/drive/1R8RpR85OgF_PqSEZw4ni-evtz94SzskG?usp=sharing",
 }
 
 
