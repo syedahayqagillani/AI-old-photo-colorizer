@@ -1,4 +1,3 @@
-```python
 import io
 import json
 from pathlib import Path
@@ -232,4 +231,3 @@ with tab_links:
 
     if is_set(LINKS["YouTube Video"]):
         st.video(LINKS["YouTube Video"])
-```
